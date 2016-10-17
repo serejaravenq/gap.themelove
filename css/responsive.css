@@ -14,3 +14,8 @@
 @media only screen and (max-width : 495px) {
 	
 }
+@media only screen and (max-width : 340px) {
+	.col-md-3{
+		margin: 5%;
+	}
+}
