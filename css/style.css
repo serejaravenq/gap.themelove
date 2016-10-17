@@ -1,0 +1,149 @@
+
+
+body {
+	background: #eeeeee;
+	color: #595959;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5em;
+}
+body, input, textarea {
+    font-family: 'Roboto',Arial,sans-serif;
+}
+.htmlHeader{
+	height: 649px;
+    background-position: 50% 0px;
+    background-image: url(http://gap.themelovin.com/wp-content/uploads/2015/01/Portfolio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0;
+    overflow-x: hidden;
+    position: relative;
+    overflow-y: hidden;
+}
+.container {
+	max-width: 900px;
+}
+.col-md-3{
+	
+}
+.htmlHeaderPictureWrapper{
+ margin: 8% auto;
+ text-align:center;
+}
+
+.htmlHeaderPicture{
+	max-width: 90px;
+	cursor: auto;
+	color: #fff;
+	display:inline-block;
+	-webkit-transition: background 0.5s ease, color 0.3s ease;
+	}
+
+.htmlHeaderPicture:hover{
+	color: #33f;
+	}
+.htmlvSectionWrapper{
+	padding: 5em;
+}
+.htmlvSectionTitle{
+	font-size: 1.125em;
+	font-weight: 400;
+	font-family: 'Helvetica',Arial,sans-serif;
+	color: #fff;
+	letter-spacing: -0.015em;
+}
+.htmlvSectionSubtitle{
+	font-size: 1.75em;
+    font-weight: 200;
+    margin-top: 0.8em;
+    color: #fff;
+    font-family: 'Helvetica',Arial,sans-serif;
+    letter-spacing: -0.015em;
+}
+.htmlvFilters{
+	margin-top: 2em;
+	opacity: 0.5;
+	list-style:none;
+	padding:0;
+	color:#fff;
+}
+.htmlvFilters li{
+	display:inline-block;
+	margin:0 1px;
+}
+.htmlvFilters li a{
+	color: #fff;
+	font-size: 0.875em;
+	font-weight: 300;
+	text-decoration: none;
+
+	transition: background 0.2s ease-out 0s, 
+	color 0.2s ease-out 0s,
+	opacity 0.2s ease-out 0s;
+
+	-webkit-transition: background 0.2s ease-out 0s, 
+	color 0.2s ease-out 0s, 
+	opacity 0.2s ease-out 0s;
+}
+/*-----------------------------------------------------------------------------------
+6. Typo
+-----------------------------------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.25em;
+}
+
+h1 {
+	font-size: 3.75em;
+	font-weight: 300;
+	letter-spacing: -0.015em;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: 300;
+	letter-spacing: -0.015em;
+}
+
+h3 {
+	font-size: 2.25em;
+	font-weight: 300;
+	letter-spacing: -0.015em;
+}
+
+h4 {
+	font-size: 1.5em;
+	font-weight: 300;
+	letter-spacing: -0.015em;
+}
+
+h5 {
+	font-size: 1em;
+	font-weight: 400;
+	letter-spacing: -0.015em;
+}
+
+h6 {
+	font-size: 0.875em;
+	font-weight: 500;
+	letter-spacing: -0.015em;
+}
+
+p {
+    margin-bottom: 2em;
+}
+
+
+/*-----------------------------------------------------------------------------------
+7. Stuff
+-----------------------------------------------------------------------------------*/
+
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
