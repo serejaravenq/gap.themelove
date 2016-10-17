@@ -91,6 +91,10 @@ body, input, textarea {
 	color 0.2s ease-out 0s, 
 	opacity 0.2s ease-out 0s;
 }
+.htmlvContentContainers {
+    height: 30vh;
+    margin: 15% auto;
+   }
 .ImgContainer {
     max-width: 70%;
     display: inline-block;
