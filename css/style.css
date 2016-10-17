@@ -12,7 +12,7 @@ body, input, textarea {
     font-family: 'Roboto',Arial,sans-serif;
 }
 .htmlHeader{
-	height: 649px;
+	height: 100vh;
     background-position: top center;
     background-image: url(http://gap.themelovin.com/wp-content/uploads/2015/01/Portfolio.jpg);
     background-repeat: no-repeat;
